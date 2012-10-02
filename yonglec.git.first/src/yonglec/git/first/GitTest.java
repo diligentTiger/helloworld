@@ -7,6 +7,7 @@ public class GitTest {
 	 */
 	public static void main(String[] args) {
 		System.out.println("hello, git is fun");
+		System.out.println("add a new line");
 	}
 
 }
